@@ -1,0 +1,12 @@
+{
+  "name": "getyoutubetranscript",
+  "version": "1.0.0",
+  "description": "YouTube transcripts with timestamps, YouTube search and channel videos through the GetYouTubeTranscript API.",
+  "main": "index.js",
+  "scripts": { "test": "jest --testTimeout 40000" },
+  "engines": { "node": ">=18" },
+  "dependencies": { "zapier-platform-core": "19.1.0" },
+  "devDependencies": { "jest": "^29.7.0" },
+  "private": true,
+  "license": "MIT"
+}
